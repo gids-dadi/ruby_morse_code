@@ -28,6 +28,12 @@ To get a local copy up and running follow these simple example steps.
 -GitHub: [@gids_dadi](https://github.com/gids-dadi)<br>
 -Twitter: [@Dadi_AG](https://twitter.com/Dadi_AG)
 
+👤 **Bruk Teshome**
+
+- GitHub: [@githubhandle](https://github.com/bruk19)
+- Twitter: [@twitterhandle](https://twitter.com/Bruktesh)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/bruk-teshome-ab4325226)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
