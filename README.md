@@ -13,10 +13,10 @@
 
 To get a local copy up and running follow these simple example steps.
 
-- copy this link `https://github.com/gids-dadi/ruby_morse_code.git`.
+- copy this link `https://github.com/gidsdadi/ruby_morse_code.git`.
 - get the directory that you want to clone the repository.
 - open the command prompt in this directory.
-- write `git clone https://github.com/gids-dadi/ruby_morse_code.git`.
+- write `git clone https://github.com/gidsdadi/ruby_morse_code.git`.
 - go to the repository folder in your command prompt.
 - run `bundle install`.
 
