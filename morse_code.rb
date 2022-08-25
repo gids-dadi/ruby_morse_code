@@ -23,11 +23,11 @@ end
 
 def decode(msg)
   msg_split = msg.split('  ')
-  msg_sentence = ''
+  result = ''
   msg_split.each do |word|
-    msg_sentence += "#{decode_word(word)} "
+    result += "#{decode_word(word)} "
   end
-  msg_sentence
+  result
 end
 
 print decode_char('.-')
