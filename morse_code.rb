@@ -14,7 +14,7 @@ def decode_char(char)
 end
 
 def decode_word(word)
-  str = ''
+  str = ' '
   word.split.each do |n|
     str += decode_char(n)
   end
