@@ -22,4 +22,4 @@ list_test.all? { |e| e < 5 }
 list_test.all? { |e| e > 5 }
 list_test.any? { |e| e == 2 }
 list_test.any? { |e| e == 5 }
-list_test.filter? { |e| e.even? }
+list_test.filter(&:even?)
